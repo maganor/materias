@@ -1,4 +1,3 @@
-import SQLite from "better-sqlite3"
 import { type Database } from './types'
 import { Kysely, SqliteDialect} from "kysely"
 import { LibsqlDialect } from "@libsql/kysely-libsql";
